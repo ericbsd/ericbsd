@@ -1,12 +1,6 @@
-<p>
-<a href="https://twitter.com/ericbsd/">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/eric-turgeon/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</p>
-<br />
+[![Static Badge](https://img.shields.io/badge/X%2FTwitter-black?style=flat&logo=x)](https://x.com/ericbsd/)
+[![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eric-turgeon/)
+
 
 ### 📈 My GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericbsd&show_icons=true&theme=gotham)](#)

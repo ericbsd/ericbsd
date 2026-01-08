@@ -4,6 +4,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericbsd&theme=github-compact)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericbsd&theme=github_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ericbsd&theme=github_dark)
 
 <!--

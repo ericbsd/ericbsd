@@ -1,6 +1,3 @@
-[![Static Badge](https://img.shields.io/badge/X%2FTwitter-black?style=flat&logo=x)](https://x.com/ericbsd/)
-[![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eric-turgeon/)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericbsd&theme=github-compact)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericbsd&theme=github_dark)

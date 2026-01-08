@@ -1,9 +1,10 @@
 [![Static Badge](https://img.shields.io/badge/X%2FTwitter-black?style=flat&logo=x)](https://x.com/ericbsd/)
 [![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eric-turgeon/)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericbsd&theme=github-compact)
 
-### 📈 My GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericbsd&show_icons=true&theme=gotham)](#)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericbsd&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ericbsd&theme=github_dark)
 
 <!--
 **ericbsd/ericbsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,0 +1,17 @@
+# ENV
+.venv
+
+# IDEs
+.idea
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Core dumps
+*.core
+node.core
+
+# Do not send output.
+output/
